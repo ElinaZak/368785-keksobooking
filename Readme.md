@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Элина Захарян](https://up.htmlacademy.ru/javascript/9/user/368785).
-* Наставник: `Неизвестно`.
+* Наставник: `Альбина Токарчук`.
 
 ---
 
